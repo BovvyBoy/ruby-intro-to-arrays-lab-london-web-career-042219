@@ -13,3 +13,7 @@ end
 def third_element(dudes)
   dudes[2]
 end
+
+def last_element
+  dudes[-1]
+end
